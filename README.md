@@ -12,7 +12,7 @@
 
 <h2 align="center">Projects</h3>
 
-- [Portfolio](https://github.com/lfixas/project1): My very first HTML/CSS/JS project after 5 days of web learning.
+- [Portfolio](https://github.com/lfixas/firstportfolio): My very first HTML/CSS/JS project after 5 days of web learning.
 
 <h2 align="center">Skills and Tools</h3>
 
